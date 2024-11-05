@@ -1,4 +1,4 @@
-# Assignment 3: Locomotion
+# Assignment 4: Locomotion
 In this assignment, you will work with your group to implement locomotion techniques that were discussed in class, and in service to your final project.
 
 ## Submission Information
