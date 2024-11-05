@@ -25,7 +25,7 @@ Group member 4 email:
 Third party assets:
 
 ## Technique Selection (10 total points)
-As a group, you will need to select and implement a number of locomotion techniques. Specifically, you will design and implement a number of techniques equal to your group size (minimum 2). If you are working in a group of 3, you will select and implement 3 techniques. If you are working alone, you will select and implement 2 techniques. **You CANNOT implement basic grabbing or basic pointing**. 
+As a group, you will need to select and implement a number of locomotion techniques. Specifically, you will design and implement a number of techniques equal to your group size (minimum 2). If you are working in a group of 3, you will select and implement 3 techniques. If you are working alone, you will select and implement 2 techniques. **You CANNOT implement "standard" natural locomotion or "standard" continuous movement or "standard" teleportation. A list of possible techniques is provided below with examples how you can modify these techniques in a way that will be acceptable for this assignment**. 
 
 In this section, you will justify your technique selections.
 
