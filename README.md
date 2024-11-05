@@ -72,6 +72,7 @@ I specifically want you to focus on the technique's effects on motion sickness, 
  - A different technique not listed here (it is suggested you run this by the professor to verify that it meets the requriements of the assignment)
 
 *\* Continuous movement can be implemented using either view-directed steering, hand-directed steering, or the "human joystick" method*
+
 *\*\* The total physical environment size requirements cannot exceed 4 meters by 4 meters*
 
 #### Answer
